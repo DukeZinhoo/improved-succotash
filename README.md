@@ -1,2 +1,2 @@
 # improved-succotash
-free shared.json
+dcopn
